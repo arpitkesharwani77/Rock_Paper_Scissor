@@ -1,5 +1,4 @@
 import random
-
 print("Welcome to rock paper scissors game.")
 
 print('''\nThe winning rules are:
